@@ -1,0 +1,1 @@
+object_set_sprite(o_inv_backpack, s_inv_travellersbackpack)
