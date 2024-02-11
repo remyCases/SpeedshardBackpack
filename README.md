@@ -22,6 +22,7 @@ A [video](https://www.youtube.com/watch?v=_J0oJYGi38E&t=13s&ab_channel=Nylux) wa
 
 ### Using MSL
 
+- Download the lastest `.sml` file released of [Speedshard - Backpack](https://github.com/remyCases/SpeedshardBackpack/releases).
 - Move the `Speedshard_Backpack.sml` in the `MSL/Mods` folder.
 - Run `ModShardLauncher.exe`.
 - Click on the anvil icon on the leftside.
