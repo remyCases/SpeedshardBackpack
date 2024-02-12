@@ -4,7 +4,7 @@
 
 This mod changes the default backpack into a bigger backpack, because we know that we are all loot goblins at heart.
 
-Other functionalities can be found in [SpeedShard_Core](https://github.com/remyCases/SpeedshardCore), Speedshard_Sprint, Speedshard_Skinning, Speedshard_MoneyDungeons and Speedshard_Stances *(to be soon released)*.
+Other functionalities can be found in [SpeedShard_Core](https://github.com/remyCases/SpeedshardCore), [Speedshard_Sprint](https://github.com/remyCases/SpeedshardSprint), Speedshard_Skinning, [Speedshard_MoneyDungeon](https://github.com/remyCases/SpeedshardMoneyDungeon) and Speedshard_Stances *(to be soon released)*.
 
 ## Installation
 

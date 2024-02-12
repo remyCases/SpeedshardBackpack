@@ -1,4 +1,8 @@
-﻿using ModShardLauncher;
+﻿// Copyright (C) 2024 Rémy Cases
+// See LICENSE file for extended copyright information.
+// This file is part of the Speedshard repository from https://github.com/remyCases/SpeedshardBackpack.
+
+using ModShardLauncher;
 using ModShardLauncher.Mods;
 using System.Collections.Generic;
 using UndertaleModLib.Models;
