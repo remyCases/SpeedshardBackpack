@@ -1,3 +1,4 @@
+event_inherited()
 closeButton = scr_adaptiveCloseButtonCreate(id, (depth - 1), 229, 3)
 with (closeButton)
     drawHover = 1
