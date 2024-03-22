@@ -13,7 +13,7 @@ public class SpeedshardBackpack : Mod
     public override string Author => "zizani";
     public override string Name => "Speedshard - Backpack";
     public override string Description => "A bigger backpack for yall little loot goblins";
-    public override string Version => "1.0.0.0";
+    public override string Version => "1.1.0.0";
     public override string TargetVersion => "0.8.2.10";
 
     public override void PatchMod()
