@@ -45,9 +45,14 @@ Then you can contact me on [Discord](https://discord.com/users/20033086552237670
 Other mods I've made:
 - Stoneshard:
     - [Character Creation](https://github.com/remyCases/CharacterCreator)
+    - [Pelt Durability](https://github.com/remyCases/Stoneshard-PeltDurability)
+    - [MoreSaveSlots](https://github.com/remyCases/Stoneshard-MoreSaveSlots)
+    - [Defeat Scenarios](https://github.com/remyCases/Stoneshard-DefeatScenarios)
 
 - Shardpunk:
     - [Shardpunk-BiggerTeam](https://github.com/remyCases/Shardpunk-BiggerTeam)
+    - [Shardpunk-Faster](https://github.com/remyCases/Shardpunk-Faster)
+    - [Shardpunk-MoreSkillLevels](https://github.com/remyCases/Shardpunk-MoreSkillLevels)
 
 - Airship Kingdom Adrift:
     - [ProductionPanel](https://github.com/remyCases/AKAMod_ProdPanel)
